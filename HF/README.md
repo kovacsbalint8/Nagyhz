@@ -33,4 +33,3 @@ Az adatbázisban a következő entitásokat és attribútumokat tároljuk:
 	 Team: member , unites , team , t_5_number , t_4_number
 
 A fenti adatok tárolását az alábbi sémával oldjuk meg:
-![Kep](./abra.png "schema")
